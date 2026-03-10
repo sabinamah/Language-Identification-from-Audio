@@ -1,4 +1,4 @@
-# NNTI Final Project – Language Identification from Audio
+# Language Identification from Audio
 
 ## Overview
 
