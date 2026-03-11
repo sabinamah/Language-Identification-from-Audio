@@ -1,4 +1,5 @@
-# NNTI Final Project – Language Identification from Audio
+# Language Identification from Audio:
+# Fine-Tuning and Debiasing Pretrained Speech Transformers for 22 Indian Languages
 
 ## Overview
 
